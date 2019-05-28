@@ -1645,6 +1645,10 @@ td {
 }
 
       .main {
+        max-width: 600px;
+      }
+    
+      .main {
         background: #C7B897;
       }
     
@@ -1663,4 +1667,8 @@ td {
       a:hover {
         color: #ffffff;
       }
+    
+      .post-feature-image {
+	border-radius: 12px !important;
+}
     
