@@ -1643,3 +1643,24 @@ td {
 .katex .mtable .col-align-r > .vlist {
   text-align: right;
 }
+
+      .main {
+        background: #C7B897;
+      }
+    
+      body {
+        background: #C7B897;
+      }
+    
+      body {
+        color: #212529;
+      }
+    
+      a {
+        color: #212529;
+      }
+    
+      a:hover {
+        color: #ffffff;
+      }
+    
