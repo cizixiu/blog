@@ -1693,6 +1693,7 @@ td {
   background: #C7B897;
   border:1px solid #ffffff;
   border-radius:5px;
+  margin-bottom:10px;
 }
 .tags-container .tag:hover {
 background: #AD9767;
