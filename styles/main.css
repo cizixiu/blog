@@ -1686,4 +1686,12 @@ td {
     font-size: 20px;
     font-weight: 500;
   }
+.post-detail .post .post-title {
+    font-size: 20px;
+  }
+.tags-container .tag {
+  background: #c7b897;
+  border:1px solid #ddd;
+  border-radius:5px;
+}
     
