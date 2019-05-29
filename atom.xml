@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cizixiu.com/blog</id>
     <title>談談刺子綉</title>
-    <updated>2019-05-29T03:40:26.483Z</updated>
+    <updated>2019-05-29T03:43:26.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.cizixiu.com/blog"/>
     <link rel="self" href="https://www.cizixiu.com/blog/atom.xml"/>
@@ -16,7 +16,7 @@
         </link>
         <updated>2019-05-29T03:15:37.000Z</updated>
         <content type="html"><![CDATA[<p>测试新的文章测试新的文章
-<img src="https://ws1.sinaimg.cn/large/bd1043f0ly1g36dxmspeuj20cs07w0td.jpg" alt=""></p>
+<img src="http://ws1.sinaimg.cn/large/bd1043f0ly1g36dxmspeuj20cs07w0td.jpg" alt=""></p>
 ]]></content>
     </entry>
     <entry>
