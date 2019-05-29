@@ -1690,8 +1690,12 @@ td {
     font-size: 20px;
   }
 .tags-container .tag {
-  background: #c7b897;
-  border:1px solid #ddd;
+  background: #C7B897;
+  border:1px solid #ffffff;
   border-radius:5px;
+}
+.tags-container .tag:hover {
+background: #AD9767;
+border:1px solid #ffffff;
 }
     
