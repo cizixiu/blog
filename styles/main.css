@@ -1699,4 +1699,12 @@ td {
 background: #AD9767;
 border:1px solid #ffffff;
 }
+.post-container .post .post-info {
+  font-size: 14px;
+  line-height:20px;
+}
+.post-detail .post .post-info {
+  font-size: 14px;
+  line-height:20px;
+}
     
