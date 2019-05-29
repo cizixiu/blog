@@ -1674,4 +1674,16 @@ td {
 .archives-container .year {
     color: #ffffff;
 }
+.site-header .menu-container a.menu {
+    font-size: 16px;
+    padding: 8px 16px;
+    flex-shrink: 0;
+    font-weight: 500;
+}
+.menu-container a {color: #900;}
+.menu-container a:hover {color: #f3f5f7;}
+.post-container .post .post-title {
+    font-size: 20px;
+    font-weight: 500;
+  }
     
