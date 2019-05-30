@@ -1691,13 +1691,13 @@ td {
   }
 .tags-container .tag {
   background: #C7B897;
-  border:1px solid #ffffff;
+  border:1px solid #E0D8C5;
   border-radius:5px;
   margin-bottom:10px;
 }
 .tags-container .tag:hover {
 background: #AD9767;
-border:1px solid #ffffff;
+border:1px solid ##E0D8C5;
 }
 .post-container .post .post-info {
   font-size: 14px;
