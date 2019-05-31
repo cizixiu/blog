@@ -1707,4 +1707,9 @@ border:1px solid ##E0D8C5;
   font-size: 14px;
   line-height:20px;
 }
+.post-detail .post .post-content img {
+    box-shadow: none;
+    border-radius: 12px;
+
+}
     
