@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tantan.cizixiu.com</id>
-    <title>談談刺子綉</title>
-    <updated>2019-09-04T00:50:41.898Z</updated>
+    <title>談談刺子绣</title>
+    <updated>2019-09-04T00:53:42.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tantan.cizixiu.com"/>
     <link rel="self" href="https://tantan.cizixiu.com/atom.xml"/>
+    <subtitle>刺子綉的感悟，三言兩語</subtitle>
     <logo>https://tantan.cizixiu.com/images/avatar.png</logo>
     <icon>https://tantan.cizixiu.com/favicon.ico</icon>
-    <rights>All rights reserved 2019, 談談刺子綉</rights>
+    <rights>All rights reserved 2019, 談談刺子绣</rights>
     <entry>
         <title type="html"><![CDATA[你好！刺子绣]]></title>
         <id>https://tantan.cizixiu.com/post/hello-sashiko</id>
