@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tantan.cizixiu.com</id>
     <title>談談</title>
-    <updated>2019-09-04T01:02:34.155Z</updated>
+    <updated>2019-09-04T08:57:51.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tantan.cizixiu.com"/>
     <link rel="self" href="https://tantan.cizixiu.com/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://tantan.cizixiu.com/images/avatar.png</logo>
     <icon>https://tantan.cizixiu.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 談談</rights>
+    <entry>
+        <title type="html"><![CDATA[谈谈刺子绣测试一下新文章]]></title>
+        <id>https://tantan.cizixiu.com/post/CNt5yje10</id>
+        <link href="https://tantan.cizixiu.com/post/CNt5yje10">
+        </link>
+        <updated>2019-09-04T08:55:36.000Z</updated>
+        <content type="html"><![CDATA[<p>谈谈刺子绣测试一下新文章</p>
+<h1 id="谈谈刺子绣测试一下新文章">谈谈刺子绣测试一下新文章</h1>
+<p><strong>谈谈刺子绣测试一下新文章</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谈谈刺子绣测试一下新文章]]></title>
+        <id>https://tantan.cizixiu.com/post/ceshi</id>
+        <link href="https://tantan.cizixiu.com/post/ceshi">
+        </link>
+        <updated>2019-09-04T08:55:36.000Z</updated>
+        <content type="html"><![CDATA[<p>谈谈刺子绣测试一下新文章</p>
+<h1 id="谈谈刺子绣测试一下新文章">谈谈刺子绣测试一下新文章</h1>
+<p><strong>谈谈刺子绣测试一下新文章</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你好！刺子绣]]></title>
         <id>https://tantan.cizixiu.com/post/hello-sashiko</id>
